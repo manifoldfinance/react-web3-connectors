@@ -1,0 +1,55 @@
+{
+  "private": true,
+  "name": "react-web3-connectors",
+  "description": "Web3 react connectors",
+  "keywords": [
+    "react",
+    "react-hooks",
+    "hooks",
+    "ethereum",
+    "javascript",
+    "typescript",
+    "web3",
+    "context",
+    "frontend",
+    "dapp",
+    "metamask",
+    "walletconnect",
+    "walletlink",
+    "frame",
+    "fortmatic",
+    "portis",
+    "squarelink",
+    "torus",
+    "authereum",
+    "magic"
+  ],
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "publish:lerna": "lerna publish from-package --yes",
+    "clean": "lerna clean --yes && lerna exec -- rimraf yarn.lock dist/ .rts2_cache_{cjs,esm}/",
+    "build": "lerna run build",
+    "start": "lerna run --parallel --no-bail start -- --noClean",
+    "lint": "lerna run lint --parallel",
+    "test": "lerna run test --parallel"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.21",
+    "@types/react": "^16.9.11",
+    "@types/react-dom": "^16.9.4",
+    "lerna": "^3.19.0",
+    "prettier": "^2.2.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-scripts": "^4.0.0",
+    "rimraf": "^3.0.1",
+    "tsdx": "^0.11.0"
+  },
+  "license": "GPL-3.0-or-later",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 120
+  },
+  "version": "1.0.0"
+}
