@@ -1,4 +1,4 @@
-# `web3-react-wallet`
+# `react-web3-wallet`
 
 This is a fork of the web3-react project with wallet integrated and only contains the following
 connectors:
