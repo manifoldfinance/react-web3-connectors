@@ -21,10 +21,8 @@ connectors:
 
 <!-- END pkgtoc, keep to allow update -->
 
-
-| Packages                         | `@latest` Version                                                                                                                                               | Size                                                                                                                                                                       | Description                                                                         | |
+| Packages                         | `@latest` Version                                                                                                                                               | Size                                                                                                                                                                       | Description                                                                         |     |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --- |
-| 🔌 **Connectors**                | | |
-| _Browser Extension/dApp Browser_ | | |
+| 🔌 **Connectors**                |                                                                                                                                                                 |                                                                                                                                                                            |
+| _Browser Extension/dApp Browser_ |                                                                                                                                                                 |                                                                                                                                                                            |
 | `@web3-react/injected-connector` | [![npm version](https://img.shields.io/npm/v/@web3-react/injected-connector/latest.svg)](https://www.npmjs.com/package/@web3-react/injected-connector/v/latest) | [![minzip](https://img.shields.io/bundlephobia/minzip/@web3-react/injected-connector/latest.svg)](https://bundlephobia.com/result?p=@web3-react/injected-connector@latest) | [Injected](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1193.md) Connector |     |
-

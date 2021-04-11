@@ -1,0 +1,32 @@
+{
+  "name": "sign-permit",
+  "version": "0.1.0",
+  "description": "ERC2612 Sign Permit ",
+  "keywords": [
+    "erc2612",
+    "ethereum",
+    "web3",
+    "react"
+  ],
+  "author": "SEE CONTRIBUTORS",
+  "homepage": "https://github.com/manifoldfinance",
+  "license": "MIT",
+  "main": "lib/signERC2612Permit.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/react-web3-connectors.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/manifoldfinance/react-web3-connectors/issues"
+  }
+}
