@@ -14,10 +14,11 @@ connectors:
 
 **Packages**
 
-| Package                                                             | Description                                                                                       |
-| :------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ |
-| **[@ether-react/injected-connector](packages/injected-connector/)** | A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps |
-| **[tsdx-lib](packages/tsdx-lib/)**                                  |                                                                                                   |
+| Package                                                             | Description         |
+| :------------------------------------------------------------------ | :------------------ |
+| **[@ether-react/injected-connector](packages/injected-connector/)** |                     |
+| **[sign-permit](packages/sign-permit/)**                            | ERC2612 Sign Permit |
+| **[tsdx-lib](packages/tsdx-lib/)**                                  |                     |
 
 <!-- END pkgtoc, keep to allow update -->
 
